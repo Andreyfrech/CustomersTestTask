@@ -1,0 +1,4 @@
+INSERT INTO Customers
+  VALUES (1,'Max'), (2,'Pavel'), (3,'Ivan'), (4,'Leonid')
+INSERT INTO Orders
+  VALUES (2), (4)
